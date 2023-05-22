@@ -1,0 +1,71 @@
+{
+  "_vendor-2849f329.js": {
+    "css": [
+      "assets/vendor-742bb332.css"
+    ],
+    "file": "assets/vendor-2849f329.js"
+  },
+  "_works-549a7100.js": {
+    "file": "assets/works-549a7100.js",
+    "imports": [
+      "index.html"
+    ]
+  },
+  "index.css": {
+    "file": "assets/index-18e2a561.css",
+    "src": "index.css"
+  },
+  "index.html": {
+    "css": [
+      "assets/index-18e2a561.css"
+    ],
+    "dynamicImports": [
+      "src/pages/index/Index.vue",
+      "src/pages/work/Index.vue"
+    ],
+    "file": "assets/main-f2018276.js",
+    "imports": [
+      "_vendor-2849f329.js"
+    ],
+    "isEntry": true,
+    "src": "index.html"
+  },
+  "src/pages/index/Index.css": {
+    "file": "assets/Index-22de4358.css",
+    "src": "src/pages/index/Index.css"
+  },
+  "src/pages/index/Index.vue": {
+    "css": [
+      "assets/Index-22de4358.css"
+    ],
+    "file": "assets/Index-9cd313b2.js",
+    "imports": [
+      "index.html",
+      "_vendor-2849f329.js",
+      "_works-549a7100.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "src/pages/index/Index.vue"
+  },
+  "src/pages/work/Index.css": {
+    "file": "assets/Index-e6247af5.css",
+    "src": "src/pages/work/Index.css"
+  },
+  "src/pages/work/Index.vue": {
+    "css": [
+      "assets/Index-e6247af5.css"
+    ],
+    "file": "assets/Index-ccd5cdbf.js",
+    "imports": [
+      "index.html",
+      "_works-549a7100.js",
+      "_vendor-2849f329.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "src/pages/work/Index.vue"
+  },
+  "vendor.css": {
+    "file": "assets/vendor-742bb332.css",
+    "src": "vendor.css"
+  }
+}
