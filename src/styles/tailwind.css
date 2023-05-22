@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#experience .el-collapse-item {
+	@apply bg-emerald-50 rounded-xl !important;
+}
+#experience .el-collapse-item__header {
+	@apply bg-emerald-700 rounded-xl text-white px-5 py-2 h-auto !important;
+}
+#experience .el-collapse-item__wrap {
+	@apply bg-transparent text-white !important;
+}
+#experience .el-collapse-item__content {
+	@apply p-5 pt-3 pb-6 !important;
+}
