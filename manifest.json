@@ -5,8 +5,8 @@
     ],
     "file": "assets/vendor-2849f329.js"
   },
-  "_works-af19a905.js": {
-    "file": "assets/works-af19a905.js",
+  "_works-da597b01.js": {
+    "file": "assets/works-da597b01.js",
     "imports": [
       "index.html"
     ]
@@ -23,7 +23,7 @@
       "src/pages/index/Index.vue",
       "src/pages/work/Index.vue"
     ],
-    "file": "assets/main-921c52fc.js",
+    "file": "assets/main-291321fe.js",
     "imports": [
       "_vendor-2849f329.js"
     ],
@@ -38,11 +38,11 @@
     "css": [
       "assets/Index-22de4358.css"
     ],
-    "file": "assets/Index-60dd0cb8.js",
+    "file": "assets/Index-c51f30d7.js",
     "imports": [
       "index.html",
       "_vendor-2849f329.js",
-      "_works-af19a905.js"
+      "_works-da597b01.js"
     ],
     "isDynamicEntry": true,
     "src": "src/pages/index/Index.vue"
@@ -55,10 +55,10 @@
     "css": [
       "assets/Index-e6247af5.css"
     ],
-    "file": "assets/Index-ea4cbb26.js",
+    "file": "assets/Index-323b8e03.js",
     "imports": [
       "index.html",
-      "_works-af19a905.js",
+      "_works-da597b01.js",
       "_vendor-2849f329.js"
     ],
     "isDynamicEntry": true,
